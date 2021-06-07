@@ -1,11 +1,11 @@
 nav:
-  home: Home
-  about: About
-  articles: Writing
-  tag: Tag
-  category: Category
-  projects: Projects
-  search: Search
+  home: home
+  about: about
+  articles: posts
+  tag: tag
+  category: category
+  projects: projects
+  search: search
 
 icons:
   menu: Menu
@@ -18,10 +18,11 @@ index:
   find_me_on: Find me on
   enum_comma: ','
   enum_and: and
-  articles: Writing
+  articles: Posts
   projects: Projects
   topics: Topics
   most_recent: Most recent
+  more_projects: see all...
 
 post:
   desktop:
